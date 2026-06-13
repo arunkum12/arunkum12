@@ -1,22 +1,49 @@
+```md
 # Hi, I'm Arunkumar 👋
 
 🚀 Full Stack Developer | Java | Spring Boot | React.js | Node.js
 
 📍 Andhra Pradesh, India
 
-Currently working as a Full Stack Developer Intern and building scalable web applications using modern technologies.
-
----
+Turning ideas into scalable web applications through clean code and modern technologies.
 
 ## 👨‍💻 About Me
 
-• Full Stack Developer with hands on experience in Java and Node.js ecosystems
+• Full Stack Developer focused on building secure and scalable applications
 
-• Building production grade applications using React.js, Node.js, PostgreSQL, Docker, and Spring Boot
+• Currently developing real world products using React.js, Node.js, Spring Boot, PostgreSQL, and Docker
 
-• Passionate about clean code, scalable architecture, and real world software products
+• Strong interest in backend engineering, system design, and cloud technologies
 
-• Interested in Backend Development, Cloud Technologies, and Full Stack Engineering
+• Enjoy solving complex problems and creating user friendly digital experiences
+
+• Experienced in REST APIs, authentication, database design, and full stack development
+
+• Always learning new technologies and improving software development skills
+```
+
+Or a shorter version:
+
+```md
+# Hi, I'm Arunkumar 👋
+
+🚀 Full Stack Developer | Java | Spring Boot | React.js | Node.js
+
+📍 Andhra Pradesh, India
+
+Building scalable web applications and learning new technologies every day.
+
+## 👨‍💻 About Me
+
+• Full Stack Developer with experience in Java, Spring Boot, React.js, and Node.js
+
+• Passionate about backend development and modern web technologies
+
+• Building real world applications with clean and maintainable code
+
+• Interested in cloud computing, software architecture, and scalable systems
+```
+
 
 ---
 
