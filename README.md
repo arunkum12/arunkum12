@@ -84,9 +84,17 @@ A scalable e-commerce solution with a complete shopping experience and a dedicat
 
 ## GitHub Stats
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkum12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunkum12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkum12&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunkum12&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
